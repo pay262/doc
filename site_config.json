@@ -5,7 +5,7 @@
     "site_domain": "pay262.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/pay262/pay262.github.io/blob/main",
+    "source": "https://github.com/pay262/doc/blob/main",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh"
